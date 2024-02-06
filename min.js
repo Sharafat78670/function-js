@@ -9,7 +9,6 @@ if (num1 < num2) {
 else{
     console.log('Minimum number is(Normal Code) :',num2)
 }
-
 // Function code
 
 function Minimum(number1,number2) {
