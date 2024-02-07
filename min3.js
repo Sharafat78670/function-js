@@ -1,6 +1,6 @@
-let a=34;
-let b=6;
-let c=46;
+let a=56;
+let b=49;
+let c=100;
 
 if (a<b && a<c) {
     console.log('Minimum number is: ',a)
